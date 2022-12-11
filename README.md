@@ -1,8 +1,8 @@
 # HEALTHCARE-FOR-SUNITA
 To live a healthy life for sunita who is 65+ years of age.the person have to go through various health tests
-# and various blood tests.the data which we obtain from the blood test are used to analyse the important aspects like blood pressure,
-# sugar level hemoglobin levels,kidney function,cholestrol level,thryroid level.Here i have used the sample data to analyse the result
-# for various tests sunita have to undergo and this tests will help here to stay healthy.here i have used various tests and they are:
+#and various blood tests.the data which we obtain from the blood test are used to analyse the important aspects like blood pressure,
+#sugar level hemoglobin levels,kidney function,cholestrol level,thryroid level.Here i have used the sample data to analyse the result
+#for various tests sunita have to undergo and this tests will help here to stay healthy.here i have used various tests and they are:
 
 #1. BMI :here require data is weight and height
 #2 heartrate:here require data is age
